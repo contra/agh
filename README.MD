@@ -4,7 +4,7 @@ Read about me on [Medium](https://medium.com/@andreasimonecosta/goodbye-transfor
 
 
 Let's see how to use the `asyncGeneratorsFactory` to transform a function into an async generator:
-```
+```js
 const { asyncGeneratorsFactory } = require('agh');
 
 // filter function
@@ -26,7 +26,7 @@ You can see that filter functions must return undefined only when a chunk has to
 
 
 Let's see how to pipe the generators for handle streams (Node.js)
-```
+```js
 const { pipe } = require('agh');
 
 (async function IIAFE() {
