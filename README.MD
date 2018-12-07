@@ -24,7 +24,7 @@ const plusOne = function (n) {
 const onlyOddPleaseGen = asyncGeneratorsFactory(onlyOddPlease);
 const plusOneGen = asyncGeneratorsFactory(plusOne);
 ```
-You can see that filter functions must return undefined only when a chunk has to be discarded. Normal transform functions must always return a value. Composition functions are not yet supported, but I'm working on them.
+You can see that filter functions must return `undefined` only when a chunk has to be discarded. Normal transform functions must always return a value. Composition functions are not yet supported, but I'm working on them.
 
 
 
