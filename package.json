@@ -1,0 +1,23 @@
+{
+  "name": "agh",
+  "version": "0.1.0",
+  "description": "async generators helpers",
+  "main": "agh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/%16%1B%5B2~jfet97/agh.git"
+  },
+  "keywords": [
+    "async",
+    "generators"
+  ],
+  "author": "Andrea Simone Costa <andrysimo1997@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/%16%1B%5B2~jfet97/agh/issues"
+  },
+  "homepage": "https://github.com/%16%1B%5B2~jfet97/agh#readme"
+}
