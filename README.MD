@@ -38,3 +38,6 @@ const { pipe } = require('agh');
     await pipe(inputStream, outputStream, onlyOddPleaseGen, plusOneGen);
 })();
 ```
+
+### Contact me
+Feel free to contact me on twitter: https://twitter.com/JFieldEffectT
