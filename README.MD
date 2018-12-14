@@ -3,7 +3,10 @@
 Read about me on [Medium](https://medium.com/@andreasimonecosta/goodbye-transform-streams-long-live-es9-async-generators-86e60284fb80).
 
 ```bash
-$ npm install agh
+$ npm install --save agh
+```
+```js
+const agh = require('agh');
 ```
 
 Let's see how to use the `asyncGeneratorsFactory` to transform a function into an async generator:
